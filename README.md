@@ -1,12 +1,11 @@
 # RTMPCHybridEngine-WIN
 基于RTMP和RTC混合引擎的在线视频连麦互动直播
 
+Windows原生直播（网络自适应码率RTMP publisher）、点播播放器（播放器经过专业优化，可实现秒开RTMP Player）、基于RTMP和RTC混合引擎的视频连麦互动（最多支持4人同时互动）、高级版本支持直播控制台、插播广告
+
 #声明
 **因公司战略调整，Window版本SDK将暂停对外开放，具体详情请见官网声明**</br>
 **https://www.anyrtc.io**</br>
-#
-
-Windows原生直播（网络自适应码率RTMP publisher）、点播播放器（播放器经过专业优化，可实现秒开RTMP Player）、基于RTMP和RTC混合引擎的视频连麦互动（最多支持4人同时互动）
 
 
 ##简介
