@@ -1,7 +1,7 @@
 # RTMPCHybridEngine-WIN
 基于RTMP和RTC混合引擎的在线视频连麦互动直播
 
-##声明
+#声明
 **因公司战略调整，Window版本SDK将暂停对外开放，具体详情请见官网声明**</br>
 **https://www.anyrtc.io**</br>
 
